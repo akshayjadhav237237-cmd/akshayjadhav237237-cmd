@@ -106,14 +106,14 @@ I'm an **18-year-old developer & hackathon competitor** based in Pune, India. I 
 
 <table width="100%">
   <tr>
-    <td width="50%" align="center" valign="top">
+    <td width="50%" align="center" valign="middle">
       <a href="https://leetcode.com/u/Akshay237237/">
-        <img src="https://leetcard.jacoblin.cool/Akshay237237?theme=radical" width="100%" alt="Akshay's LeetCode Stats" />
+        <img src="https://github-readme-leetcode-card.romitsagu.com/Akshay237237?theme=radical" width="100%" alt="Akshay's LeetCode Stats" />
       </a>
     </td>
-    <td width="50%" align="center" valign="top">
+    <td width="50%" align="center" valign="middle">
       <a href="https://leetcode.com/u/Akshay237237/">
-        <img src="https://leetcard.jacoblin.cool/Akshay237237?ext=heatmap&theme=radical" width="100%" alt="Akshay's LeetCode Heatmap" />
+        <img src="https://github-readme-leetcode-card.romitsagu.com/Akshay237237?theme=radical&show=graph" width="100%" alt="Akshay's LeetCode Heatmap" />
       </a>
     </td>
   </tr>
