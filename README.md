@@ -7,11 +7,16 @@
 </h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=3500&color=FF9500&center=true&width=600&lines=%22The+best+way+to+predict+the+future+is+to+invent+it.%22;%22Talk+is+cheap.+Show+me+the+code.%22;%22Build+things+that+actually+matter%2C+not+just+demos.%22" alt="Animated Quotes" />
+</p>
+
+<p align="center">
   <a href="https://github.com/akshayjadhav237237-cmd">
     <img src="https://komarev.com/normal-badge.png?key=akshayjadhav237237-cmd&style=flat-square&color=ff6b2b&label=PROFILE+VIEWS" alt="Profile Views" />
   </a>
   <img src="https://img.shields.io/badge/Open_To_Collab-Yes-ff9500?style=flat-square" alt="Open to Collab" />
   <img src="https://img.shields.io/badge/Location-Pune,_India-f4f5f7?style=flat-square&color=2a2e3d" alt="Location" />
+  <img src="https://img.shields.io/badge/TimeZone-IST_(UTC%2B5%3A30)-ff6b2b?style=flat-square" alt="TimeZone" />
 </p>
 
 ---
@@ -27,12 +32,21 @@ I'm an **18-year-old developer & hackathon competitor** based in Pune, India. I 
 
 ---
 
-### 💻 Tech Stack
+### 💻 Tech Stack & Proficiency
 
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,supabase,py,cpp,vscode,figma,postman,git,github,gcp,cloudflare,docker,linux" alt="My Skills" />
   </a>
+</p>
+
+#### 📊 Visual Core Metrics:
+<p align="left">
+  <img src="https://img.shields.io/badge/React%20%2F%20Next.js-95%25-ff6b2b?style=flat-square" />
+  <img src="https://img.shields.io/badge/C%2B%2B%20%2F%20Algorithms-90%25-ff9500?style=flat-square" />
+  <img src="https://img.shields.io/badge/Supabase%20%2F%20Backend-88%25-ff6b2b?style=flat-square" />
+  <img src="https://img.shields.io/badge/Python%20%2F%20AI%20Agents-85%25-2a2e3d?style=flat-square" />
+  <img src="https://img.shields.io/badge/TypeScript-85%25-ff9500?style=flat-square" />
 </p>
 
 ---
@@ -77,7 +91,7 @@ I'm an **18-year-old developer & hackathon competitor** based in Pune, India. I 
 
 ---
 
-### 📊 Github Stats & Metrics
+### 📊 Github & Coding Stats
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=akshayjadhav237237-cmd&theme=radical&no-bg=true&margin-w=4" alt="Akshay's Trophies" width="100%" />
@@ -93,6 +107,13 @@ I'm an **18-year-old developer & hackathon competitor** based in Pune, India. I 
     </td>
   </tr>
 </table>
+
+<h4 align="center">🏆 LeetCode Progress Metric</h4>
+<p align="center">
+  <a href="https://leetcode.com/u/Akshay237237/">
+    <img src="https://leetcard.jacoblin.cool/Akshay237237?theme=radical" alt="Akshay's LeetCode Stats" width="80%" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshayjadhav237237-cmd&theme=tokyonight&bg_color=08090c&color=ff6b2b&line=ff9500&point=f4f5f7&area=true&hide_border=true" alt="Akshay's Activity Graph" width="100%" />
@@ -114,7 +135,49 @@ This snake is eating my commits and updates every 12 hours automatically via Git
 
 ---
 
-### 🌐 Connect With Me
+### ⚙️ Deep-Dive Specifications (Click to expand)
+
+<details>
+<summary><b>⏱️ Daily Discipline Matrix (Pune Time Zone)</b></summary>
+<br>
+<table>
+  <tr>
+    <th>Time Period</th>
+    <th>Scheduled Activity / focus</th>
+  </tr>
+  <tr>
+    <td><code>07:15 AM - 08:30 AM</code></td>
+    <td>🏋️ Physical conditioning & high-intensity gym workout.</td>
+  </tr>
+  <tr>
+    <td><code>09:00 AM - 03:00 PM</code></td>
+    <td>🎓 PCU Computer Engineering Lectures & Hands-on Lab sessions.</td>
+  </tr>
+  <tr>
+    <td><code>03:30 PM - 06:30 PM</code></td>
+    <td>💻 Algorithms & Competitive Programming (grinding LeetCode/Codeforces).</td>
+  </tr>
+  <tr>
+    <td><code>07:00 PM - 11:30 PM</code></td>
+    <td>⚡ Product development, agentic AI research, & shipping full-stack products.</td>
+  </tr>
+</table>
+</details>
+
+<details>
+<summary><b>🛠️ Developer Configuration</b></summary>
+<br>
+<ul>
+  <li><b>Primary OS:</b> Linux (Ubuntu) & Windows Subsystem for Linux (WSL2).</li>
+  <li><b>Editors:</b> VS Code (Cursor & Windsurf fork) configured with custom high-contrast material themes.</li>
+  <li><b>Shell Setup:</b> Zsh + OhMyZsh with theme customization.</li>
+  <li><b>Fav Coding Beats:</b> Synthwave & Lo-Fi ambient tracks.</li>
+</ul>
+</details>
+
+---
+
+### 🌐 Let's Connect!
 
 <p align="center">
   <a href="mailto:akshayjadhav237237@gmail.com">
