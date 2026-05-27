@@ -17,6 +17,9 @@
   <a href="https://github.com/akshayjadhav237237-cmd">
     <img src="https://img.shields.io/github/followers/akshayjadhav237237-cmd?style=flat-square&color=ff9500&label=followers" alt="Followers" />
   </a>
+  <a href="https://portfolio-eight-woad-2tcqinidtq.vercel.app" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Portfolio-Live-ff6b2b?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <img src="https://img.shields.io/badge/Open_To_Collab-Yes-ff6b2b?style=flat-square" alt="Open to Collab" />
   <img src="https://img.shields.io/badge/Location-Pune,_India-f4f5f7?style=flat-square&color=2a2e3d" alt="Location" />
   <img src="https://img.shields.io/badge/TimeZone-IST_(UTC%2B5%3A30)-ff9500?style=flat-square" alt="TimeZone" />
@@ -26,7 +29,7 @@
 
 ### 🚀 About Me
 
-I'm an **18-year-old developer & hackathon competitor** based in Pune, India. I started building at 17, driven by competitive programming and the thrill of turning logic into production-ready software. I thrive in high-pressure environments like 48-hour hackathons, building AI pipelines, PWAs, and developer tools.
+I'm an **18-year-old developer & hackathon competitor** based in Pune, India. You can explore my work, view active projects, and interact with my custom design on my [Live Portfolio Website](https://portfolio-eight-woad-2tcqinidtq.vercel.app). I started building at 17, driven by competitive programming and the thrill of turning logic into production-ready software. I thrive in high-pressure environments like 48-hour hackathons, building AI pipelines, PWAs, and developer tools.
 
 - 🎓 **Education:** B.Tech in Computer Engineering at **Pimpri Chinchwad University (PCU), Pune**.
 - 🌐 **Community:** **Google ELP Core Member** (Pune region) & speaker at Google Developer Groups (GDG).
