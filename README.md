@@ -100,24 +100,7 @@ I'm an **18-year-old developer & hackathon competitor** based in Pune, India. I 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshayjadhav237237-cmd&theme=tokyonight&hide_border=true" alt="Akshay's Streak" width="80%" />
 </p>
 
----
 
-### 🏆 LeetCode Metrics & Heatmap
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center" valign="middle">
-      <a href="https://leetcode.com/u/Akshay237237/">
-        <img src="https://github-readme-leetcode-card.romitsagu.com/Akshay237237?theme=radical" width="100%" alt="Akshay's LeetCode Stats" />
-      </a>
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <a href="https://leetcode.com/u/Akshay237237/">
-        <img src="https://github-readme-leetcode-card.romitsagu.com/Akshay237237?theme=radical&show=graph" width="100%" alt="Akshay's LeetCode Heatmap" />
-      </a>
-    </td>
-  </tr>
-</table>
 
 ---
 
