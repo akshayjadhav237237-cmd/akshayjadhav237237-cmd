@@ -182,3 +182,10 @@ This snake is eating my commits and updates every 12 hours automatically via Git
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
+
+---
+
+### ⚖️ License & Code of Conduct
+
+- **License:** Distributed under the **Apache License 2.0**. See [LICENSE](LICENSE) for details.
+- **Code of Conduct:** We expect all participants to adhere to our [Code of Conduct](CODE_OF_CONDUCT.md).
