@@ -102,14 +102,13 @@ I'm an **18-year-old developer & hackathon competitor** based in Pune, India. I 
 
 ---
 
-### 🏆 LeetCode Progress & Heatmap
+### 🏆 LeetCode Stats & Heatmap
+
+This single unified card displays my core LeetCode statistics alongside my 52-week activity heatmap:
 
 <p align="center">
   <a href="https://leetcode.com/u/Akshay237237/">
-    <img src="https://leetcard.jacoblin.cool/Akshay237237?theme=radical" width="370px" alt="Akshay's LeetCode Stats" />
-  </a>
-  <a href="https://leetcode.com/u/Akshay237237/">
-    <img src="https://leetcard.jacoblin.cool/Akshay237237?ext=activity&theme=radical" width="370px" alt="Akshay's LeetCode Heatmap" />
+    <img src="https://leetcard.jacoblin.cool/Akshay237237?ext=heatmap&theme=radical" width="600px" alt="Akshay's LeetCode Stats & Heatmap" />
   </a>
 </p>
 
