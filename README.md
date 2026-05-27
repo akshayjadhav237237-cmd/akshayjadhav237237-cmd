@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/akshayjadhav237237-cmd">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fakshayjadhav237237-cmd&count_bg=%23FF6B2B&title_bg=%232A2E3D&icon=&style=flat-square&title=views" alt="Views" />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=akshayjadhav237237-cmd&color=ff6b2b" alt="Views" />
   </a>
   <a href="https://github.com/akshayjadhav237237-cmd">
     <img src="https://img.shields.io/github/followers/akshayjadhav237237-cmd?style=flat-square&color=ff9500&label=followers" alt="Followers" />
