@@ -12,11 +12,14 @@
 
 <p align="center">
   <a href="https://github.com/akshayjadhav237237-cmd">
-    <img src="https://komarev.com/normal-badge.png?key=akshayjadhav237237-cmd&style=flat-square&color=ff6b2b&label=PROFILE+VIEWS" alt="Profile Views" />
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fakshayjadhav237237-cmd&count_bg=%23FF6B2B&title_bg=%232A2E3D&icon=&style=flat-square&title=views" alt="Views" />
   </a>
-  <img src="https://img.shields.io/badge/Open_To_Collab-Yes-ff9500?style=flat-square" alt="Open to Collab" />
+  <a href="https://github.com/akshayjadhav237237-cmd">
+    <img src="https://img.shields.io/github/followers/akshayjadhav237237-cmd?style=flat-square&color=ff9500&label=followers" alt="Followers" />
+  </a>
+  <img src="https://img.shields.io/badge/Open_To_Collab-Yes-ff6b2b?style=flat-square" alt="Open to Collab" />
   <img src="https://img.shields.io/badge/Location-Pune,_India-f4f5f7?style=flat-square&color=2a2e3d" alt="Location" />
-  <img src="https://img.shields.io/badge/TimeZone-IST_(UTC%2B5%3A30)-ff6b2b?style=flat-square" alt="TimeZone" />
+  <img src="https://img.shields.io/badge/TimeZone-IST_(UTC%2B5%3A30)-ff9500?style=flat-square" alt="TimeZone" />
 </p>
 
 ---
@@ -94,29 +97,20 @@ I'm an **18-year-old developer & hackathon competitor** based in Pune, India. I 
 ### 📊 Github & Coding Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akshayjadhav237237-cmd&theme=radical&no-bg=true&margin-w=4" alt="Akshay's Trophies" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshayjadhav237237-cmd&theme=tokyonight&hide_border=true" alt="Akshay's Streak" width="80%" />
 </p>
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=akshayjadhav237237-cmd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Akshay's Stats" width="100%" />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshayjadhav237237-cmd&theme=tokyonight&hide_border=true" alt="Akshay's Streak" width="100%" />
-    </td>
-  </tr>
-</table>
+---
 
-<h4 align="center">🏆 LeetCode Progress Metric</h4>
+### 🏆 LeetCode Progress & Heatmap
+
 <p align="center">
   <a href="https://leetcode.com/u/Akshay237237/">
-    <img src="https://leetcard.jacoblin.cool/Akshay237237?theme=radical" alt="Akshay's LeetCode Stats" width="80%" />
+    <img src="https://leetcard.jacoblin.cool/Akshay237237?theme=radical" width="370px" alt="Akshay's LeetCode Stats" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshayjadhav237237-cmd&theme=tokyonight&bg_color=08090c&color=ff6b2b&line=ff9500&point=f4f5f7&area=true&hide_border=true" alt="Akshay's Activity Graph" width="100%" />
+  <a href="https://leetcode.com/u/Akshay237237/">
+    <img src="https://leetcard.jacoblin.cool/Akshay237237?ext=activity&theme=radical" width="370px" alt="Akshay's LeetCode Heatmap" />
+  </a>
 </p>
 
 ---
